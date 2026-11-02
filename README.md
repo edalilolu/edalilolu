@@ -1,6 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ## Hi there 👋
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edalilolu&show_icons=true&theme=tokyonight&hide_border=true)
 <!--
 **edalilolu/edalilolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
