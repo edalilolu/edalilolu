@@ -21,3 +21,29 @@
   ✨ Building my skills one project at a time<br>
   ☕ Eat. Sleep. Code. Coffee. Repeat
 </p>
+
+<h2 align="center">♡ My Tech Stack ♡</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,git,github,vscode&theme=dark&perline=5" />
+</p>
+
+<h2 align="center">୨୧ Let's Connect ♡</h2>
+
+<p align="center">
+  <a href="https://github.com/edalilolu">
+    <img src="https://img.shields.io/badge/GitHub-302039?style=for-the-badge&logo=github&logoColor=F2B6D0" />
+  </a>
+
+  <a href="https://www.instagram.com/@italianpastaaa_">
+    <img src="https://img.shields.io/badge/Instagram-302039?style=for-the-badge&logo=instagram&logoColor=F2B6D0" />
+  </a>
+
+  <a href="https://www.facebook.com/edaliza.rodriguez">
+    <img src="https://img.shields.io/badge/Facebook-302039?style=for-the-badge&logo=facebook&logoColor=F2B6D0" />
+  </a>
+
+  <a href="mailto:edalizairis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-302039?style=for-the-badge&logo=gmail&logoColor=F2B6D0" />
+  </a>
+</p>
