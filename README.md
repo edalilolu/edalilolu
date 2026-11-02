@@ -1,5 +1,4 @@
-"Header" (https://capsule-render.vercel.app/api?type=waving&color=0:30204F,50:7655A8,100:C5A3FF&height=200&section=header&text=Hello,%20World!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ## Hi there 👋
 
 <!--
