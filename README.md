@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  
+  <img src="./yae.gif" alt="Profile GIF" width="400"/>
 </p>
 
 <h2 align="center">୨୧ About Me ♡</h2>
