@@ -48,8 +48,4 @@
     <img src="https://img.shields.io/badge/Gmail-302039?style=for-the-badge&logo=gmail&logoColor=F2B6D0" />
   </a>
 
-  <a href="https://discord.com/edalilolu">
-    <img src="https://img.shields.io/badge/Discord-302039?style=for-the-badge&logo=discord&logoColor=F2B6D0" />
-  </a>
-
 </p>
