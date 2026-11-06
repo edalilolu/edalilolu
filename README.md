@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=F2B6D0&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+one+line+at+a+time+%E2%9C%A8;Growing+through+every+project+%E2%99%A1" />
+  <img src="./yae.gif" alt="Profile GIF" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./yae.gif" alt="Profile GIF" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=F2B6D0&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+one+line+at+a+time+%E2%9C%A8;Growing+through+every+project+%E2%99%A1" />
 </p>
+
 
 <h2 align="center">୨୧ About Me ♡</h2>
 
