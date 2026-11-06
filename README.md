@@ -19,13 +19,14 @@
   🎓 3rd Year Computer Science Student<br>
   🌱 Currently learning and exploring programming<br>
   ✨ Building my skills one project at a time<br>
-  ☕ Eat. Sleep. Code. Coffee. Repeat
+  ☕ Eat. Sleep. Code. Coffee. Repeat<br>
+  🎮 Also found in Genshin, Mobile Legends, and Roblox
 </p>
 
 <h2 align="center">♡ My Tech Stack ♡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,git,github,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode&theme=dark&perline=7" />
 </p>
 
 <h2 align="center">୨୧ Let's Connect ♡</h2>
@@ -46,4 +47,9 @@
   <a href="mailto:edalizairis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-302039?style=for-the-badge&logo=gmail&logoColor=F2B6D0" />
   </a>
+
+  <a href="https://www.discord.com/edalilolu">
+    <img src="https://img.shields.io/badge/Discord-302039?style=for-the-badge&logo=discord&logoColor=F2B6D0" />
+  </a>
+
 </p>
